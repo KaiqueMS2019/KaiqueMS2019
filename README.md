@@ -1,4 +1,4 @@
-## E ai beleza? Eu sou o Kaique Santos, criadora de conteúdo de programação e tecnologia!
+## E ai beleza? Eu sou o Kaique Santos, desenvolvedor e fascinado por tecnologia!
 <div align="center">
   <a href="https://github.com/KaiqueMS2019">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueMS2019&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
